@@ -7,7 +7,7 @@ import ForgotPassword from "./components/ForgotPassword";
 import ResetPassword from "./components/ResetPassword";
 import Dashboard from "./components/Dashboard";
 
-export const url = "http://localhost:6500";
+export const url = "https://password-reset-m70v.onrender.com";
 
 function App() {
   return (
